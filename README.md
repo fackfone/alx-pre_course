@@ -7,3 +7,6 @@
 :three: Navigate to the directory and initialize git
 
 :four: Add the remote origin and add this to the repository
+
+
+decIding your Future by Taking Decisions That cOunt...
